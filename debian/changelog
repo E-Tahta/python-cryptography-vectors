@@ -1,3 +1,9 @@
+python-cryptography-vectors (1.7.1-1pardus1) jessie-backports; urgency=medium
+
+  * Pardus CI integration
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Wed, 21 Nov 2018 13:15:21 +0300
+
 python-cryptography-vectors (1.7.1-1~bpo8+1) jessie-backports; urgency=medium
 
   * Rebuild for jessie-backports.
